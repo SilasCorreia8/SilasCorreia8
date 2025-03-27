@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SilasCorreia8&bg_color=000000&color=1a77fd&line=1a77fd&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="www.linkedin.com/in/silas-correia-leite-da-silva-108726282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="[www.linkedin.com/in/silas-correia-leite-da-silva-108726282](https://www.linkedin.com/in/silas-correia-leite-da-silva-108726282/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div> 
  
 ### Main skills:
